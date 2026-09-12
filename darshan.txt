@@ -1,0 +1,4 @@
+=== Git Branching & Conflict Resolution Lab ===
+Main update: Conflicting edit by darshanagouda
+Feature update: Added by darshanagouda
+Status: Resolved cleanly by darshanagouda
