@@ -1,1 +1,3 @@
-Main branch update
+# Git Branching Lab
+Author: darshanagouda
+Resolved branch content
